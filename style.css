@@ -1,5 +1,34 @@
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+nav {
+  padding: 10px;
+}
+
+nav span {
+  background-color: rgb(220, 193, 139);
+}
+
+figcaption {
+  font-size: smaller;
+}
+
+section#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+}
+
+section#details div {
+  float: left;
+  background-color:grey;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
